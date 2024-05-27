@@ -1,4 +1,4 @@
-# Motion-Detection-Alarm-System
+# Motion Detection Alarm System
 
 This project is a simple motion detector system using OpenCV and Python. It captures video from a webcam, processes the frames to detect motion, and triggers an alarm when significant motion is detected.
 
